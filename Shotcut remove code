@@ -1,0 +1,2 @@
+disk path(E,H,G,I)
+attrib -h -r -s /d /s *.*
